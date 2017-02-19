@@ -1,0 +1,22 @@
+
+
+		
+	table {
+		overflow:hidden;
+		border:2px  #d3d3d3;
+		background:#fefefe;
+        max-width: 750px;
+		width: 750px;
+      	}
+	
+	th, td {padding:5px 10px 5px; text-align:center; }
+	
+	th {padding-top:10px; background-color: #4880e2;}
+	
+	td {border:1px solid #e0e0e0;}
+	
+	
+	
+	/*
+	Background gradients are completely unnecessary but a neat effect.
+	*/

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\Blancyah\Desktop\FoodOrderv1" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Debug" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="03/11/2014 16:19:38" />
+    <file relUrl="Resources/viewmenu.png" publishTime="03/11/2014 09:40:29" />
+    <file relUrl="Resources/placeorder.png" publishTime="03/10/2014 17:22:56" />
+    <file relUrl="Resources/body.jpg" publishTime="02/17/2014 12:55:21" />
+    <file relUrl="Resources/sodexologo1.png" publishTime="03/10/2014 15:29:38" />
+    <file relUrl="bin/FoodOrdering.dll" publishTime="03/11/2014 16:51:58" />
+    <file relUrl="Resources/porder.png" publishTime="03/11/2014 10:56:06" />
+    <file relUrl="Home.aspx" publishTime="03/11/2014 16:52:53" />
+    <file relUrl="PlaceOrder.aspx" publishTime="03/11/2014 16:38:30" />
+    <file relUrl="Resources/vmenu.png" publishTime="03/11/2014 10:56:27" />
+    <file relUrl="Resources/sodexologo2.png" publishTime="03/11/2014 10:56:56" />
+    <file relUrl="bin/FoodOrdering.xml" publishTime="03/11/2014 16:51:58" />
+    <file relUrl="Resources/foodbg2.png" publishTime="03/11/2014 16:46:40" />
+    <file relUrl="Resources/nextbutton.png" publishTime="03/11/2014 15:44:59" />
+    <file relUrl="bin/FoodOrdering.pdb" publishTime="03/11/2014 16:51:58" />
+    <file relUrl="Site1.Master" publishTime="03/11/2014 14:28:04" />
+    <file relUrl="Styles/StyleSheetFlower.css" publishTime="03/11/2014 16:57:49" />
+  </publishProfile>
+</publishData>
